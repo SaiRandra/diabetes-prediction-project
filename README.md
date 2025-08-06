@@ -14,4 +14,4 @@ Predict diabetes using health indicators and logistic regression.
 - Model performance metrics
 
 ## Author
-Your Name
+Sai Randra Cherivirala
